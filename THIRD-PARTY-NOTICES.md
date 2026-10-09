@@ -10,6 +10,7 @@ hosts. They remain under their own licences and are credited here.
 | ONNX Runtime Web (used by Transformers.js) | Model runtime | MIT | cdn.jsdelivr.net |
 | Whisper models (`Xenova/whisper-*`, `onnx-community/whisper-large-v3-turbo`, `onnx-community/whisper-large-v3-ONNX`, converted from OpenAI Whisper) | Speech-to-text | MIT | huggingface.co |
 | Whisper-Hindi2Hinglish-Swift (Oriserve; ONNX conversion by Hirecentive-D3l) | Hinglish speech-to-text in Roman letters | Apache-2.0 | huggingface.co |
+| Whisper-Hindi2Hinglish-Apex (Oriserve; ONNX conversion `arunava-ctrl/Whisper-Hindi2Hinglish-Apex-ONNX`) | Hinglish speech-to-text in Roman letters (computers) | Apache-2.0 | huggingface.co |
 | Mediabunny | Video export (decode and encode) | MPL-2.0 | cdn.jsdelivr.net |
 | MediaPipe Tasks Vision (`@mediapipe/tasks-vision`) | Person cutout | Apache-2.0 | cdn.jsdelivr.net |
 | MediaPipe Selfie Multiclass and Selfie Segmenter models | Person cutout (text behind the speaker, background swap) | Apache-2.0 | storage.googleapis.com |
